@@ -1,0 +1,14 @@
+.navbar-brand {
+    color: #ffffff;
+}
+.navbar-nav {
+    float: right;
+}
+
+.content {
+    background-color: #ffffff;
+    width: 960px;
+    padding: 50px;
+
+
+}
