@@ -1,3 +1,8 @@
+.body {
+    background-size: cover;
+    background-image: url("/Users/martinacaputy/apps/Basic-Portfolio/assets/images/dust_scratches/dust_scratches.png");
+}
+
 .navbar-brand {
     color: #ffffff;
 }
